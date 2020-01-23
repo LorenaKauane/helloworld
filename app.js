@@ -45,7 +45,7 @@ function createStar(container) {
 
       container.appendChild(star);
       setTimeout(() => {
-        heart.remove();
+        star.remove();
       }, 3000);
     }, index * 100);
   });
