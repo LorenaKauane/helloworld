@@ -1,2 +1,7 @@
 # helloworld
-My basic page  Hello World, with technologies: HTML,CSS, JS.
+
+My basic page Hello World, with technologies
+
+- HTML
+- CSS
+- JS
